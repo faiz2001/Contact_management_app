@@ -1,2 +1,3 @@
 # Contact_management_app
-I developed this Contact management app using react.
+For this assignment i use teck-Stacks-
+Html, Css, Javascript, React.js,React-Router, Json-Server, Api, Chart.js, React-leaflet, and Maptiler.
